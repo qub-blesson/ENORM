@@ -11,6 +11,7 @@ We have tested the iPokeMon Cloud server on AWS EC2 t2.micro with Ubuntu Server 
 ## How to use
 1. To start iPokeMon Cloud Server
 ```
+mkdir logs
 . runCloud.sh
 ```
 2. To shutdown iPokeMon Cloud Server
